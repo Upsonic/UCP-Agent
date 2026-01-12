@@ -1,6 +1,6 @@
 # UCP Shopping Agent
 
-A shopping assistant powered by **Upsonic AI Agent** and **UCP (Universal Checkout Protocol)**.
+A shopping assistant powered by **Upsonic AI Agent** and **UCP (Universal Commerce Protocol)**.
 
 ## How it works
 
