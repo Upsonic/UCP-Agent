@@ -51,11 +51,10 @@ flowchart LR
 
 ```bash
 uv venv
-uv pip install "ucp-client[server]==0.0.5"
+uv pip install "ucp-client[server]==0.0.11"
 uv pip install upsonic==0.69.3
 uv pip install streamlit
 ```
-
 ## Usage
 
 **Terminal 1** - Start the mock server:
